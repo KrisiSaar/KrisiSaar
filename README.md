@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saar Krisi
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Full Stack course in Sela
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me krisibk@gmail.com
 
 <!---
